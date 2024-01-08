@@ -1,0 +1,9 @@
+[submodule "go-microservices-course"]
+	path = go-microservices-course
+	url = git@github.com:zahariaca/go-microservices-course.git
+[submodule "go-programming-crash-course"]
+	path = go-programming-crash-course
+	url = git@github.com:zahariaca/go-programming-crash-course.git
+[submodule "practice-it-go-rest-api-server"]
+	path = practice-it-go-rest-api-server
+	url = git@github.com:zahariaca/practice-it-go-rest-api-server.git
